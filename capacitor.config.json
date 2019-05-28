@@ -1,0 +1,7 @@
+{
+  "appId": "com.waddles.spotifyshuffler",
+  "appName": "Spotify Shuffler",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}

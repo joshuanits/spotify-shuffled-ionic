@@ -1,0 +1,8 @@
+{
+  "name": "Spotify Shuffler",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "custom"
+}
